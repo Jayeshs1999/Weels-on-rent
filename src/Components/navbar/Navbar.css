@@ -1,0 +1,12 @@
+.navbar-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: coral;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.3);
+    height: 60px;
+}
+
+.last-part {
+    margin-right: 16px;
+}

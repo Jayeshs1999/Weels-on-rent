@@ -1,0 +1,17 @@
+.form-background {
+    background: white;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center; 
+    width: 80%;
+    padding: 26px;
+    border-radius: 10px;
+}
+
+.signup-container {
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}

@@ -1,0 +1,27 @@
+.signupways-container {
+    height: 100vh;
+    display: flex;
+}
+
+.right-side {
+    width: 60%;
+    background-image: url('https://c4.wallpaperflare.com/wallpaper/990/123/613/colorful-lines-and-gray-background-wallpaper-preview.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.left-side {
+    width: 40%;
+    background-image: url('https://cdn.wallpapersafari.com/60/38/j3qRvw.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.left-part-button-align {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
